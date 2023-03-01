@@ -5,7 +5,7 @@ public class Main {
         Scanner sc= new Scanner(System.in);
         int staffQuantity = sc.nextInt();
         int timeLeaving = sc.nextInt();
-        int[] staffFloors = new int[(staffQu m k jk kj kantity-1)];
+        int[] staffFloors = new int[(staffQuantity-1)];
         for (int i = 0; i < staffFloors.length; i++) {
             staffFloors[i] = sc.nextInt();
         }
